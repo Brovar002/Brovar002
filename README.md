@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniil Goncharov</h1>
 <h3 align="center">A Java Developer and student of BSUIR</h3>
 
-- 🔭 I’m currently working on [Chore app by Jungeeks](https://www.linkedin.com/company/jungeeks/)
+- 🔭 I’m currently working on [BeatDev](http://beatdev.by)
 
-- 🌱 I’m currently learning **Spring, C#**
+- 🌱 I’m currently learning **Kafka**
 
 - 👯 I’m looking to collaborate on **Metronome on Android**
 
